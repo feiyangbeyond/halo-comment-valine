@@ -4,7 +4,7 @@
 
 ### 示例
 
-[留言板](https://blog.tsxygfy.cn/s/comment.html)
+[留言板](https://blog.tsxygfy.cn/s/comments.html)
 
 ### 使用指南
 
