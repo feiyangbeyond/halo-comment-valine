@@ -5,7 +5,7 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "build-comment": "cross-env vue-cli-service build --target wc --name halo-comment-valine 'src/components/Comment.vue'",
+    "build-comment": "cross-env vue-cli-service build --target wc --name halo-comment 'src/components/Comment.vue'",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
@@ -58,7 +58,7 @@
     "type": "git",
     "url": "git+https://github.com/feiyangbeyond/halo-comment-valine.git"
   },
-  "author": "Ryan Wang",
+  "author": "fyanguo",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/feiyangbeyond/halo-comment-valine/issues"
