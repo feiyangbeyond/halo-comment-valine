@@ -8699,10 +8699,10 @@ verror@1.10.0:
     core-util-is "1.0.2"
     extsprintf "^1.2.0"
 
-viewerjs@^1.6.1:
-  version "1.6.1"
-  resolved "https://registry.yarnpkg.com/viewerjs/-/viewerjs-1.6.1.tgz#719719898cbf7b63dd41763a0b4dabfa927ddfcf"
-  integrity sha512-2c6hURX1kaHNCluP0l+7nkI26/GBcQqpMRA4PGC3EsJ48lSpjYXK8C1pHC84q9kf4otANwxH2Nw8HAOk69ZTig==
+viewerjs@^1.6.2:
+  version "1.6.2"
+  resolved "https://registry.yarnpkg.com/viewerjs/-/viewerjs-1.6.2.tgz#0826eaa9bb143875690b0506712335722dcbeaa3"
+  integrity sha512-EHepcPFz2YOv0wOKMUU7JwcUGdF3EmTH8A4owYeNPCM1t5XuE7ePelACY8ltWvh6O2yPOdJ9CI3T6m04RjsmpQ==
 
 vm-browserify@^1.0.1:
   version "1.1.2"
