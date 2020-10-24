@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "autosize": "^4.0.2",
-    "axios": "^0.20.0",
+    "axios": "^0.21.0",
     "highlight": "^0.2.4",
     "highlight.js": "^10.1.2",
     "highlightjs": "^9.16.2",
