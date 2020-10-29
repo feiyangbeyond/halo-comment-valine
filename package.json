@@ -12,7 +12,7 @@
     "autosize": "^4.0.2",
     "axios": "^0.20.0",
     "highlight": "^0.2.4",
-    "highlight.js": "^10.1.2",
+    "highlight.js": "^10.3.2",
     "highlightjs": "^9.16.2",
     "marked": "^1.1.0",
     "md5": "^2.3.0",
