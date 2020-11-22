@@ -17,7 +17,7 @@
     "marked": "^1.1.0",
     "md5": "^2.3.0",
     "promise.prototype.finally": "^3.1.2",
-    "ua-parser-js": "^0.7.21",
+    "ua-parser-js": "^0.7.22",
     "viewerjs": "^1.7.1",
     "vue": "^2.6.12"
   },
