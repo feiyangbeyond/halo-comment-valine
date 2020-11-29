@@ -9336,7 +9336,7 @@ var Commentshadow_component = normalizeComponent(
 
 
 
-window.customElements.define('halo-comment', vue_wc_wrapper(external_Vue_default.a, Commentshadow))
+window.customElements.get('halo-comment') || window.customElements.define('halo-comment', vue_wc_wrapper(external_Vue_default.a, Commentshadow))
 
 /***/ }),
 
